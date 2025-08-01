@@ -52,12 +52,12 @@ body::-moz-scrollbar-track {
 }
 html::-webkit-scrollbar-thumb,
 body::-webkit-scrollbar-thumb {
-  background-color: #AEFF1C;
+  background-color: #00a976;
   outline: none;
 }
 html::-moz-scrollbar-thumb,
 body::-moz-scrollbar-thumb {
-  background-color: #AEFF1C;
+  background-color: #00a976;
   outline: none;
 }
 html::-webkit-scrollbar-thumb:active,
@@ -308,7 +308,7 @@ label {
 }
 .popup-video:hover {
   color: #ffffff;
-  background: #AEFF1C;
+  background: #00a976;
 }
 
 .custom-container-1600 {
@@ -402,7 +402,7 @@ label {
 #scrollToTopBtn {
   font-size: 18px;
   display: inline-block;
-  background: #AEFF1C;
+  background: #00a976;
   position: fixed;
   width: 35px;
   height: 35px;
@@ -470,7 +470,7 @@ label {
 }
 
 [data-overlay=dark]::before {
-  background-color: #AEFF1C;
+  background-color: #00a976;
 }
 
 /*-- Overlay Opacity --*/
@@ -525,7 +525,7 @@ label {
 .theme-main-menu .ht-promo,
 .theme-main-menu .ht-phone,
 .theme-main-menu .ht-email {
-  color: #104042;
+  color: #046848;
   font-size: 18px;
   font-family: "Satoshi-Medium";
   font-weight: 500;
@@ -581,7 +581,7 @@ label {
   border-radius: 50px;
 }
 .theme-main-menu .hamburger-menu:hover {
-  background: #AEFF1C;
+  background: #00a976;
   color: #ffffff;
 }
 @media only screen and (max-width: 767.98px) {
@@ -605,7 +605,7 @@ label {
   width: 30px;
   height: 30px;
   border-radius: 50%;
-  background: #104042;
+  background: #046848;
   color: #ffffff;
   font-size: 14px;
   text-align: center;
@@ -613,8 +613,8 @@ label {
   margin: 0 5px;
 }
 .header-social a:hover {
-  color: #104042;
-  background: #AEFF1C;
+  color: #046848;
+  background: #00a976;
 }
 
 .main-menu {
@@ -653,7 +653,7 @@ label {
   color: #000000;
 }
 .main-menu ul li a {
-  color: #104042;
+  color: #046848;
   font-family: "Satoshi-Medium";
   font-size: 20px;
   font-weight: 500;
@@ -686,13 +686,13 @@ label {
   display: none;
 }
 .main-menu ul li a:hover {
-  color: #AEFF1C;
+  color: #00a976;
 }
 .main-menu ul li a i {
   font-size: 10px;
 }
 .main-menu ul li:hover > a {
-  color: #AEFF1C;
+  color: #00a976;
 }
 .main-menu ul li ul.sub-menu {
   border: 0;
@@ -814,12 +814,12 @@ label {
 }
 .theme-menu-one .cart-menu .shopping-cart:hover {
   color: #ffffff;
-  background: #AEFF1C;
-  border-color: #AEFF1C;
+  background: #00a976;
+  border-color: #00a976;
 }
 .theme-menu-one .hamburger-menu:hover {
-  background: #AEFF1C;
-  border-color: #AEFF1C;
+  background: #00a976;
+  border-color: #00a976;
 }
 .theme-menu-one .hamburger-menu:hover .bar-wrap .bar-1,
 .theme-menu-one .hamburger-menu:hover .bar-wrap .bar-2,
@@ -831,7 +831,7 @@ label {
   transform: translateY(6px);
 }
 .theme-menu-one .bs-btn::before {
-  background: #104042;
+  background: #046848;
 }
 @media only screen and (max-width: 1800px) {
   .theme-menu-one {
@@ -845,12 +845,12 @@ label {
 }
 @media only screen and (max-width: 1200px) {
   .theme-menu-one .logo-area img {
-    width: 80%;
+    width: 20%;
   }
 }
 @media only screen and (max-width: 767.98px) {
   .theme-menu-one .logo-area img {
-    width: 100%;
+    width: 30px;
   }
 }
 
@@ -869,16 +869,16 @@ label {
   border: 1.5px solid #000;
 }
 .theme-menu-two .cart-menu .shopping-cart span {
-  background: #104042;
+  background: #046848;
 }
 .theme-menu-two .cart-menu .shopping-cart:hover {
   color: #ffffff;
-  background: #104042;
-  border-color: #104042;
+  background: #046848;
+  border-color: #046848;
 }
 .theme-menu-two .hamburger-menu {
-  background: #104042;
-  border-color: #104042;
+  background: #046848;
+  border-color: #046848;
 }
 .theme-menu-two .hamburger-menu .bar-wrap .bar-1,
 .theme-menu-two .hamburger-menu .bar-wrap .bar-2,
@@ -887,14 +887,14 @@ label {
 }
 .theme-menu-two .bs-btn {
   color: #000000;
-  background: #AEFF1C;
+  background: #00a976;
   font-size: 18px;
   padding: 20px 45px 20px 45px;
   border-width: 0;
   transform: translateY(5px);
 }
 .theme-menu-two .bs-btn::before {
-  background: #104042;
+  background: #046848;
 }
 .theme-menu-two .logo {
   display: inline-block;
@@ -944,8 +944,8 @@ label {
 }
 .theme-menu-two .main-header-area.sticky-menu .cart-menu .shopping-cart {
   color: #ffffff;
-  border: 1.5px solid #104042;
-  background: #104042;
+  border: 1.5px solid #046848;
+  background: #046848;
 }
 .theme-menu-two .main-menu ul li a {
   color: #000000;
@@ -959,7 +959,7 @@ label {
 }
 @media only screen and (max-width: 767.98px) {
   .theme-menu-two .logo-area img {
-    max-width: 100%;
+    max-width: 30px;
   }
 }
 
@@ -978,22 +978,22 @@ label {
 }
 .theme-menu-three .cart-menu .shopping-cart:hover {
   color: #ffffff;
-  border-color: #104042;
-  background: #104042;
+  border-color: #046848;
+  background: #046848;
 }
 .theme-menu-three .cart-menu .shopping-cart span {
-  background: #104042;
+  background: #046848;
 }
 .theme-menu-three .bs-btn {
   color: #000000;
-  background: #AEFF1C;
+  background: #00a976;
   font-size: 18px;
   padding: 20px 45px 20px 45px;
   border: 2px solid #000;
   transform: translateY(5px);
 }
 .theme-menu-three .bs-btn::before {
-  background: #104042;
+  background: #046848;
 }
 .theme-menu-three .logo {
   display: inline-block;
@@ -1042,7 +1042,7 @@ label {
   transition: all 0.4s ease 0s;
 }
 .theme-menu-three .main-menu ul li:hover > a {
-  color: #104042;
+  color: #046848;
 }
 @media only screen and (max-width: 1600px) {
   .theme-menu-three .header-top,
@@ -1053,7 +1053,7 @@ label {
 }
 @media only screen and (max-width: 767.98px) {
   .theme-menu-three .logo-area img {
-    max-width: 100%;
+    max-width: 30px;
   }
 }
 
@@ -1066,7 +1066,7 @@ label {
   z-index: 999;
 }
 .theme-menu-four .header-top {
-  background: #104042;
+  background: #046848;
   padding-top: 10px;
   padding-bottom: 10px;
 }
@@ -1089,7 +1089,7 @@ label {
 .theme-menu-four .main-header-area.sticky-menu {
   padding-top: 15px;
   padding-bottom: 15px;
-  background: #104042;
+  background: #046848;
 }
 .theme-menu-four .main-menu ul li a {
   color: #ffffff;
@@ -1104,12 +1104,12 @@ label {
   border-color: #ffffff;
 }
 .theme-menu-four .cart-menu .shopping-cart span {
-  background: #AEFF1C;
+  background: #00a976;
 }
 .theme-menu-four .cart-menu .shopping-cart:hover {
   color: #ffffff;
-  border-color: #AEFF1C;
-  background: #AEFF1C;
+  border-color: #00a976;
+  background: #00a976;
 }
 .theme-menu-four .search-area .search-input {
   color: #000;
@@ -1118,8 +1118,8 @@ label {
 }
 .theme-menu-four .search-area .search-input:hover {
   color: #ffffff;
-  border-color: #AEFF1C;
-  background: #AEFF1C;
+  border-color: #00a976;
+  background: #00a976;
 }
 .theme-menu-four .main-header-area,
 .theme-menu-four .header-top {
@@ -1146,7 +1146,7 @@ label {
 }
 @media only screen and (max-width: 767.98px) {
   .theme-menu-four .logo-area img {
-    max-width: 100%;
+    max-width: 30px;
   }
 }
 
@@ -1174,15 +1174,15 @@ label {
   background: #ffffff;
 }
 .theme-menu-five .cart-menu .shopping-cart span {
-  background: #104042;
+  background: #046848;
 }
 .theme-menu-five .cart-menu .shopping-cart:hover {
   color: #ffffff;
-  background: #104042;
+  background: #046848;
 }
 .theme-menu-five .hamburger-menu {
-  background: #104042;
-  border-color: #104042;
+  background: #046848;
+  border-color: #046848;
 }
 .theme-menu-five .hamburger-menu .bar-wrap .bar-1,
 .theme-menu-five .hamburger-menu .bar-wrap .bar-2,
@@ -1224,8 +1224,8 @@ label {
   visibility: visible;
 }
 .theme-menu-five .main-header-area.sticky-menu .hamburger-menu {
-  background: #104042;
-  border-color: #104042;
+  background: #046848;
+  border-color: #046848;
 }
 .theme-menu-five .main-header-area.sticky-menu .hamburger-menu .bar-wrap .bar-1,
 .theme-menu-five .main-header-area.sticky-menu .hamburger-menu .bar-wrap .bar-2,
@@ -1235,11 +1235,11 @@ label {
 .theme-menu-five .bs-btn {
   color: #000000;
   padding: 23px 40px 22px 40px;
-  background: #AEFF1C;
+  background: #00a976;
   border-radius: 40px;
 }
 .theme-menu-five .bs-btn::before {
-  background: #104042;
+  background: #046848;
 }
 .theme-menu-five .bs-btn:hover {
   color: #ffffff;
@@ -1265,7 +1265,7 @@ label {
 }
 @media only screen and (max-width: 767.98px) {
   .theme-menu-five .logo-area img {
-    max-width: 100%;
+    max-width: 30px;
   }
 }
 
@@ -1277,7 +1277,7 @@ label {
   z-index: 999;
 }
 .theme-menu-six .header-top {
-  background: #104042;
+  background: #046848;
   padding-top: 10px;
   padding-bottom: 10px;
 }
@@ -1301,15 +1301,15 @@ label {
   background: #ffffff;
 }
 .theme-menu-six .cart-menu .shopping-cart span {
-  background: #104042;
+  background: #046848;
 }
 .theme-menu-six .cart-menu .shopping-cart:hover {
-  color: #104042;
+  color: #046848;
   background: #ffffff;
 }
 .theme-menu-six .hamburger-menu {
-  background: #104042;
-  border-color: #104042;
+  background: #046848;
+  border-color: #046848;
 }
 .theme-menu-six .hamburger-menu .bar-wrap .bar-1,
 .theme-menu-six .hamburger-menu .bar-wrap .bar-2,
@@ -1355,7 +1355,7 @@ label {
 .theme-menu-six .bs-btn {
   color: #ffffff;
   padding: 23px 40px 22px 40px;
-  background: #104042;
+  background: #046848;
   border-radius: 40px;
 }
 .theme-menu-six .bs-btn::before {
@@ -1373,14 +1373,14 @@ label {
   color: #000000;
   padding: 22px 43px 21px 43px;
   border-radius: 40px;
-  background: #AEFF1C;
+  background: #00a976;
 }
 .theme-menu-six .bs-btn::before {
-  background: #104042;
+  background: #046848;
 }
 .theme-menu-six .bs-btn:hover {
   color: #ffffff;
-  background: #104042;
+  background: #046848;
 }
 @media only screen and (max-width: 1600px) {
   .theme-menu-six .main-header-area,
@@ -1391,7 +1391,7 @@ label {
 }
 @media only screen and (max-width: 767.98px) {
   .theme-menu-six .logo-area img {
-    max-width: 100%;
+    max-width: 30px;
   }
 }
 
@@ -1694,7 +1694,7 @@ a.meanmenu-reveal {
   width: 100%;
   max-width: 310px;
   background-color: #000000;
-  border-right: 3px solid #AEFF1C;
+  border-right: 3px solid #00a976;
   height: 100%;
   position: relative;
   left: -110%;
@@ -1719,7 +1719,7 @@ a.meanmenu-reveal {
   font-size: 16px;
   z-index: 1;
   color: #ffffff;
-  background-color: #AEFF1C;
+  background-color: #00a976;
   border-radius: 50%;
 }
 
@@ -1880,11 +1880,11 @@ a.meanmenu-reveal {
 }
 
 .theme-bg {
-  background: #AEFF1C !important;
+  background: #00a976 !important;
 }
 
 .theme-bg2 {
-  background: #104042 !important;
+  background: #046848 !important;
 }
 
 /*--
@@ -1899,11 +1899,11 @@ a.meanmenu-reveal {
 }
 
 .text-theme {
-  color: #AEFF1C !important;
+  color: #00a976 !important;
 }
 
 .text-theme2 {
-  color: #104042 !important;
+  color: #046848 !important;
 }
 
 .text-body {
@@ -1919,7 +1919,7 @@ a.meanmenu-reveal {
 }
 
 .text-heding2 {
-  color: #104042 !important;
+  color: #046848 !important;
 }
 
 /*--
@@ -1993,7 +1993,7 @@ a.meanmenu-reveal {
   z-index: 1;
 }
 .search-area .search-input:hover {
-  background: #AEFF1C;
+  background: #00a976;
   color: #ffffff;
 }
 
@@ -2621,12 +2621,12 @@ a.meanmenu-reveal {
   }
   50% {
     transform: scale(1);
-    background: #AEFF1C;
+    background: #00a976;
     opacity: 0.5;
   }
   100% {
     transform: scale(1.3);
-    background: #AEFF1C;
+    background: #00a976;
     opacity: 0.8;
   }
 }
@@ -2636,12 +2636,12 @@ a.meanmenu-reveal {
   }
   50% {
     transform: scale(1);
-    background: #AEFF1C;
+    background: #00a976;
     opacity: 0.5;
   }
   100% {
     transform: scale(1.3);
-    background: #AEFF1C;
+    background: #00a976;
     opacity: 0.8;
   }
 }
@@ -2651,12 +2651,12 @@ a.meanmenu-reveal {
   }
   50% {
     transform: scale(1);
-    background: #AEFF1C;
+    background: #00a976;
     opacity: 0.5;
   }
   100% {
     transform: scale(1.3);
-    background: #AEFF1C;
+    background: #00a976;
     opacity: 0.8;
   }
 }
@@ -5875,7 +5875,7 @@ theme-btn
   font-weight: 700;
   line-height: 1;
   letter-spacing: 0.05px;
-  background-color: #AEFF1C;
+  background-color: #00a976;
   padding: 23px 50px 20px 50px;
   border-radius: 40px;
   position: relative;
@@ -5899,7 +5899,7 @@ theme-btn
   top: 0;
   bottom: 0;
   z-index: -1;
-  background: #104042;
+  background: #046848;
 }
 .ht-btn:hover {
   color: #ffffff;
@@ -5912,7 +5912,7 @@ theme-btn
 }
 .ht-btn.style-2 {
   color: #ffffff;
-  background: #104042;
+  background: #046848;
 }
 .ht-btn.style-2::before {
   background: #ffffff;
@@ -5953,14 +5953,14 @@ theme-btn
   width: 60px;
   height: 60px;
   border-radius: 50%;
-  background: #AEFF1C;
+  background: #00a976;
   right: -16px;
   top: 50%;
   transform: translateY(-50%);
   z-index: -1;
 }
 .btn-two:hover {
-  color: #AEFF1C;
+  color: #00a976;
 }
 
 .btn-three {
@@ -5969,11 +5969,11 @@ theme-btn
   background: transparent;
 }
 .btn-three::before {
-  background: #104042;
+  background: #046848;
 }
 .btn-three:hover {
   color: #ffffff;
-  border-color: #104042;
+  border-color: #046848;
 }
 
 .btn-four {
@@ -5985,7 +5985,7 @@ theme-btn
   text-transform: uppercase;
   padding: 21px 51px;
   border: 1.5px solid #000;
-  background: #AEFF1C;
+  background: #00a976;
   border-radius: 38px;
   display: inline-block;
   position: relative;
@@ -6011,7 +6011,7 @@ theme-btn
 }
 .btn-four:hover {
   color: #ffffff;
-  background: #104042;
+  background: #046848;
 }
 .btn-four:hover img {
   filter: invert(1);
@@ -6026,7 +6026,7 @@ theme-btn
   text-transform: uppercase;
   padding: 20px 50px 20px 53px;
   border: 1.5px solid #000;
-  background: #AEFF1C;
+  background: #00a976;
   border-radius: 38px;
   display: inline-block;
   position: relative;
@@ -6052,7 +6052,7 @@ theme-btn
 }
 .btn-five:hover {
   color: #ffffff;
-  background: #104042;
+  background: #046848;
 }
 .btn-five:hover img {
   filter: invert(1);
@@ -6109,7 +6109,7 @@ ul.slick-dots li.slick-active button {
   background: rgba(0, 0, 0, 0.1);
 }
 .dot-style-2 ul.slick-dots li.slick-active button {
-  background: #AEFF1C;
+  background: #00a976;
 }
 
 .dot-style-3 ul.slick-dots {
@@ -6119,7 +6119,7 @@ ul.slick-dots li.slick-active button {
   background: rgba(0, 0, 0, 0.1);
 }
 .dot-style-3 ul.slick-dots li.slick-active button {
-  background: #104042;
+  background: #046848;
 }
 
 .arrow-style-1 .slick-prev,
@@ -6153,7 +6153,7 @@ ul.slick-dots li.slick-active button {
   border-radius: 50%;
   right: -23px;
   top: -23px;
-  border: 1px solid #104042;
+  border: 1px solid #046848;
   z-index: -1;
   -webkit-transition: all 0.4s ease 0s;
   -moz-transition: all 0.4s ease 0s;
@@ -6168,7 +6168,7 @@ ul.slick-dots li.slick-active button {
 .arrow-style-1 .slick-arrow::after {
   content: "";
   position: absolute;
-  background: #104042;
+  background: #046848;
   width: 26px;
   height: 2px;
   left: 0;
@@ -6196,8 +6196,8 @@ ul.slick-dots li.slick-active button {
 .arrow-style-1 .next-p1:hover::before,
 .arrow-style-1 .prev-p1:hover::before,
 .arrow-style-1 .slick-arrow:hover::before {
-  border-color: #AEFF1C;
-  background: #AEFF1C;
+  border-color: #00a976;
+  background: #00a976;
 }
 .arrow-style-1 .slick-prev {
   justify-content: end;
@@ -6239,8 +6239,8 @@ ul.slick-dots li.slick-active button {
 .arrow-style-4 .slick-arrow:hover,
 .arrow-style-4 .slick-prev:hover,
 .arrow-style-4 .slick-next:hover {
-  background: #AEFF1C;
-  border-color: #AEFF1C;
+  background: #00a976;
+  border-color: #00a976;
 }
 .arrow-style-2 .prev-p1,
 .arrow-style-4 .prev-p1 {
@@ -6303,7 +6303,7 @@ ul.slick-dots li.slick-active button {
   z-index: -2;
 }
 .arrow-style-3 .slick-arrow:hover {
-  background: #AEFF1C;
+  background: #00a976;
 }
 .arrow-style-3 .slick-arrow:hover img {
   filter: invert(1);
@@ -6415,7 +6415,7 @@ ul.slick-dots li.slick-active button {
   border-radius: 0;
   border-top-left-radius: 15px;
   border-top-right-radius: 15px;
-  border: 1px solid #104042;
+  border: 1px solid #046848;
   transition: unset;
   color: #ffffff;
   font-size: 26px;
@@ -6423,7 +6423,7 @@ ul.slick-dots li.slick-active button {
   font-weight: 600;
   line-height: 1.875rem;
   box-shadow: none;
-  background: #104042;
+  background: #046848;
   padding: 0;
   padding: 34px 0 24px 20px;
   position: relative;
@@ -6496,17 +6496,17 @@ ul.slick-dots li.slick-active button {
   display: none;
 }
 .faq-que-list .accordion-item .collapsed {
-  color: #104042;
+  color: #046848;
   border: 0;
 }
 .faq-que-list .accordion-item .collapsed::before {
   content: "\f286";
-  color: #104042;
+  color: #046848;
   transform: translateY(-50%) rotate(0deg);
 }
 .faq-que-list .accordion-item .accordion-body {
   padding-top: 15px;
-  background: #104042;
+  background: #046848;
   border-bottom-left-radius: 15px;
   border-bottom-right-radius: 15px;
   border-top: 1px solid rgba(255, 255, 255, 0.5);
@@ -6525,15 +6525,15 @@ ul.slick-dots li.slick-active button {
 }
 .faq-style-2 .accordion-item .accordion-button {
   background: transparent;
-  color: #104042;
+  color: #046848;
   border: 1px solid rgba(0, 0, 0, 0.2);
   border-bottom: 0;
-  border-color: #104042;
+  border-color: #046848;
 }
 .faq-style-2 .accordion-item .accordion-button::before {
   content: "\f2ea";
-  color: #104042;
-  background: #AEFF1C;
+  color: #046848;
+  background: #00a976;
   width: 40px;
   height: 40px;
   line-height: 40px;
@@ -6549,7 +6549,7 @@ ul.slick-dots li.slick-active button {
 .faq-style-2 .accordion-item .collapsed::before {
   content: "\f4fe";
   color: #ffffff;
-  background: #104042;
+  background: #046848;
   width: 40px;
   height: 40px;
   line-height: 40px;
@@ -6558,12 +6558,12 @@ ul.slick-dots li.slick-active button {
 }
 .faq-style-2 .accordion-item .accordion-body {
   background: transparent;
-  border: 1px solid #104042;
+  border: 1px solid #046848;
   border-top: 0;
   padding-top: 0;
 }
 .faq-style-2 .accordion-item .accordion-body p {
-  color: #104042;
+  color: #046848;
 }
 
 .faq-style-3 .accordion-item {
@@ -6578,8 +6578,8 @@ ul.slick-dots li.slick-active button {
 }
 .faq-style-3 .accordion-item .accordion-button::before {
   content: "\f2ea";
-  color: #104042;
-  background: #AEFF1C;
+  color: #046848;
+  background: #00a976;
   width: 40px;
   height: 40px;
   line-height: 40px;
@@ -6629,8 +6629,8 @@ ul.slick-dots li.slick-active button {
 }
 .faq-style-4 .accordion-item .accordion-button::before {
   content: "\f2ea";
-  color: #104042;
-  background: #AEFF1C;
+  color: #046848;
+  background: #00a976;
   width: 40px;
   height: 40px;
   line-height: 40px;
@@ -6679,8 +6679,8 @@ ul.slick-dots li.slick-active button {
 }
 .faq-style-5 .accordion-item .accordion-button::before {
   content: "\f2ea";
-  color: #104042;
-  background: #AEFF1C;
+  color: #046848;
+  background: #00a976;
   width: 40px;
   height: 40px;
   line-height: 40px;
@@ -6722,7 +6722,7 @@ ul.slick-dots li.slick-active button {
 .feature-list-one {
   display: inline-flex;
   align-items: center;
-  background: #AEFF1C;
+  background: #00a976;
   border-radius: 45px;
   padding: 7px 33px 7px 10px;
 }
@@ -6775,7 +6775,7 @@ ul.slick-dots li.slick-active button {
   font-family: "Radio Canada Big", serif;
 }
 .feature-list-two:hover {
-  background: #AEFF1C;
+  background: #00a976;
   border: 2px solid #000;
   border-radius: 15px;
 }
@@ -6825,11 +6825,11 @@ ul.slick-dots li.slick-active button {
   text-align: center;
   display: inline-block;
   margin-right: 10px;
-  background: #AEFF1C;
+  background: #00a976;
 }
 .feature-list-three:hover {
-  background: #AEFF1C;
-  border-color: #AEFF1C;
+  background: #00a976;
+  border-color: #00a976;
 }
 .feature-list-three:hover .icon {
   background: #ffffff;
@@ -6855,7 +6855,7 @@ ul.slick-dots li.slick-active button {
   color: #000000;
   font-size: 16px;
   display: inline-block;
-  background: #AEFF1C;
+  background: #00a976;
   width: 20px;
   height: 20px;
   border-radius: 50%;
@@ -6956,7 +6956,7 @@ ul.slick-dots li.slick-active button {
   width: 24px;
   height: 24px;
   border-radius: 50%;
-  background: #AEFF1C;
+  background: #00a976;
   margin-right: 15px;
 }
 .feature-list-seven .feature-title {
@@ -6996,7 +6996,7 @@ ul.slick-dots li.slick-active button {
   line-height: 110px;
   margin-bottom: 26px;
   margin-right: 25px;
-  background: #AEFF1C;
+  background: #00a976;
   -webkit-transition: all 0.4s ease 0s;
   -moz-transition: all 0.4s ease 0s;
   -ms-transition: all 0.4s ease 0s;
@@ -7032,7 +7032,7 @@ ul.slick-dots li.slick-active button {
   line-height: 1;
 }
 .feature-wrap-1 .feature-title a {
-  color: #104042;
+  color: #046848;
   -webkit-transition: all 0.4s ease 0s;
   -moz-transition: all 0.4s ease 0s;
   -ms-transition: all 0.4s ease 0s;
@@ -7043,8 +7043,8 @@ ul.slick-dots li.slick-active button {
   margin-bottom: 0;
 }
 .feature-wrap-1:hover {
-  background: #AEFF1C;
-  border-color: #AEFF1C;
+  background: #00a976;
+  border-color: #00a976;
 }
 .feature-wrap-1:hover .icon {
   background: #ffffff;
@@ -7105,7 +7105,7 @@ ul.slick-dots li.slick-active button {
   margin-bottom: 10px;
 }
 .feature-wrap-2 .feature-title a {
-  color: #104042;
+  color: #046848;
   -webkit-transition: all 0.4s ease 0s;
   -moz-transition: all 0.4s ease 0s;
   -ms-transition: all 0.4s ease 0s;
@@ -7313,7 +7313,7 @@ ul.slick-dots li.slick-active button {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: #104042;
+  background: #046848;
   margin-bottom: 32px;
   -webkit-transition: all 0.4s ease 0s;
   -moz-transition: all 0.4s ease 0s;
@@ -7452,7 +7452,7 @@ ul.slick-dots li.slick-active button {
   border-radius: 50%;
 }
 .block-style-1 p {
-  color: #104042;
+  color: #046848;
   font-weight: 500;
   font-family: "Satoshi-Medium";
   font-size: 22px;
@@ -7499,7 +7499,7 @@ ul.slick-dots li.slick-active button {
 }
 
 .social-links a {
-  color: #104042;
+  color: #046848;
   font-size: 22px;
   border: 1px solid #000;
   margin-right: 10px;
@@ -7520,7 +7520,7 @@ ul.slick-dots li.slick-active button {
 }
 .social-links a:hover {
   color: #ffffff;
-  background: #AEFF1C;
+  background: #00a976;
 }
 
 .social-links2 a {
@@ -7546,8 +7546,8 @@ ul.slick-dots li.slick-active button {
   margin-right: 0;
 }
 .social-links2 a:hover {
-  border-color: #104042;
-  background: #104042;
+  border-color: #046848;
+  background: #046848;
 }
 
 .service-category-widget li:last-child a,
@@ -7571,7 +7571,7 @@ ul.slick-dots li.slick-active button {
 }
 .service-category-widget li a:hover,
 .category-widget li a:hover {
-  color: #104042;
+  color: #046848;
 }
 
 .widget-file .file-download {
@@ -7595,7 +7595,7 @@ ul.slick-dots li.slick-active button {
 }
 .widget-file .file-download:hover {
   color: #ffffff;
-  background: #AEFF1C;
+  background: #00a976;
 }
 .widget-file ul li:last-child .file-download {
   margin-bottom: 0;
@@ -7653,7 +7653,7 @@ ul.slick-dots li.slick-active button {
 .comment-form button {
   color: #000;
   padding: 18px 40px 17px 40px;
-  background: #AEFF1C;
+  background: #00a976;
 }
 .comment-form p {
   display: flex;
@@ -7702,8 +7702,8 @@ ul.slick-dots li.slick-active button {
 }
 .page-navigation .page-link:hover {
   color: #000000;
-  background: #AEFF1C;
-  border-color: #AEFF1C;
+  background: #00a976;
+  border-color: #00a976;
 }
 
 .recent-post {
@@ -7731,7 +7731,7 @@ ul.slick-dots li.slick-active button {
   color: #000000;
 }
 .recent-post h5 a:hover {
-  color: #104042;
+  color: #046848;
 }
 .recent-post span {
   color: #000000;
@@ -7759,7 +7759,7 @@ ul.slick-dots li.slick-active button {
   width: 100%;
   line-height: 60px;
   padding-left: 22px;
-  background: #104042;
+  background: #046848;
   border-radius: 8px;
   border: 0;
 }
@@ -7830,11 +7830,11 @@ ul.slick-dots li.slick-active button {
 }
 .tagcloud a:hover {
   color: #ffffff;
-  border-color: #104042;
+  border-color: #046848;
 }
 .tagcloud a:hover::before {
   width: 100%;
-  background: #104042;
+  background: #046848;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1600px) {
   .tagcloud a {
@@ -7851,14 +7851,14 @@ ul.slick-dots li.slick-active button {
 
 .widget-contact {
   text-align: center;
-  background: #104042;
+  background: #046848;
   border-radius: 10px;
   padding: 40px 40px;
 }
 .widget-contact p {
   color: #000000;
   font-size: 22px;
-  background: #AEFF1C;
+  background: #00a976;
   border-radius: 50px;
   width: max-content;
   padding: 12px 20px;
@@ -7872,7 +7872,7 @@ ul.slick-dots li.slick-active button {
   height: 30px;
   line-height: 30px;
   border-radius: 50%;
-  background: #104042;
+  background: #046848;
 }
 .widget-contact .contact-title {
   font-size: 26px;
@@ -7961,7 +7961,7 @@ ul.slick-dots li.slick-active button {
   -webkit-box-shadow: inset 0 0 3px rgba(0, 0, 0, 0.3);
 }
 .cart-list-form .table-responsive::-webkit-scrollbar-thumb {
-  background-color: #AEFF1C;
+  background-color: #00a976;
 }
 .cart-list-form .table .product-info {
   padding-left: 30px;
@@ -8043,7 +8043,7 @@ ul.slick-dots li.slick-active button {
   }
 }
 .cart-list-form .table .remove-product {
-  color: #AEFF1C;
+  color: #00a976;
   font-size: 22px;
 }
 .cart-list-form .table tbody tr {
@@ -8109,7 +8109,7 @@ ul.slick-dots li.slick-active button {
   color: #000000;
 }
 .cart-footer .coupon-form .coupon_btn:hover::before {
-  background: #AEFF1C;
+  background: #00a976;
 }
 .cart-footer .update-section p {
   color: #000000;
@@ -8144,7 +8144,7 @@ ul.slick-dots li.slick-active button {
   padding: 10px 25px;
 }
 .cart-total-section .checkout-process:hover {
-  background: #AEFF1C;
+  background: #00a976;
 }
 @media only screen and (max-width: 767.98px) {
   .cart-total-section {
@@ -8318,7 +8318,7 @@ ul.slick-dots li.slick-active button {
 }
 .shopping-cart span {
   position: absolute;
-  background: #AEFF1C;
+  background: #00a976;
   border-radius: 50%;
   width: 17px;
   height: 17px;
@@ -8329,7 +8329,7 @@ ul.slick-dots li.slick-active button {
   left: auto;
 }
 .shopping-cart:hover {
-  background: #AEFF1C;
+  background: #00a976;
   color: #ffffff;
 }
 @media only screen and (max-width: 767.98px) {
@@ -8427,7 +8427,7 @@ ul.slick-dots li.slick-active button {
 }
 .price-range .filter {
   border: 0;
-  background: #AEFF1C;
+  background: #00a976;
   color: #fff;
   font-size: 16px;
   line-height: 1;
@@ -8457,7 +8457,7 @@ ul.slick-dots li.slick-active button {
 
 .ui-widget-content {
   border: 1px solid #ffffff;
-  background: #AEFF1C;
+  background: #00a976;
   color: #ffffff;
   border: 0;
   border-radius: 4px;
@@ -8552,12 +8552,12 @@ ul.slick-dots li.slick-active button {
   margin-bottom: 10px;
 }
 .product-wrapper .product-tag {
-  color: #AEFF1C;
+  color: #00a976;
   font-size: 14px;
   line-height: 1;
   font-weight: 400;
   font-family: "Radio Canada Big", serif;
-  border-bottom: 1px solid #AEFF1C;
+  border-bottom: 1px solid #00a976;
   display: inline-block;
   margin-bottom: 13px;
 }
@@ -8605,7 +8605,7 @@ ul.slick-dots li.slick-active button {
   margin-bottom: 8px;
 }
 .product-wrapper .product-title:hover {
-  color: #AEFF1C;
+  color: #00a976;
 }
 .product-wrapper .price {
   color: #000000;
@@ -8652,7 +8652,7 @@ ul.slick-dots li.slick-active button {
   font-size: 15px;
   display: block;
   line-height: 32px;
-  background: #AEFF1C;
+  background: #00a976;
   width: 32px;
   height: 32px;
   border-radius: 50%;
@@ -8712,7 +8712,7 @@ ul.slick-dots li.slick-active button {
   transform: translateX(-50%);
   border-radius: 50%;
   z-index: -1;
-  background: #AEFF1C;
+  background: #00a976;
 }
 .cart-btn:hover {
   color: #ffffff;
@@ -8746,7 +8746,7 @@ ul.slick-dots li.slick-active button {
 }
 .sort-item .sort-btn:hover {
   color: #ffffff;
-  background: #AEFF1C;
+  background: #00a976;
 }
 
 .product-item-slider .product-item {
@@ -8837,7 +8837,7 @@ ul.slick-dots li.slick-active button {
 }
 .product-details .price-list .new-price {
   font-size: 22px;
-  color: #AEFF1C;
+  color: #00a976;
   font-family: "Radio Canada Big", serif;
 }
 .product-details .add-to-cart {
@@ -8847,7 +8847,7 @@ ul.slick-dots li.slick-active button {
   line-height: 20px;
   font-family: "Radio Canada Big", serif;
   font-weight: 500;
-  background: #AEFF1C;
+  background: #00a976;
   padding: 14px 40px;
   border-radius: 4px;
   position: relative;
@@ -8938,9 +8938,9 @@ ul.slick-dots li.slick-active button {
   margin: 0 30px;
 }
 .product-tab .nav-link.active, .product-tab .nav-link:hover {
-  color: #104042;
+  color: #046848;
   background-color: transparent;
-  border-bottom: 2px solid #104042;
+  border-bottom: 2px solid #046848;
 }
 
 .cart-menu-right {
@@ -8960,7 +8960,7 @@ ul.slick-dots li.slick-active button {
   padding-left: 10px;
   position: absolute;
   top: 36px;
-  border: 1px solid #AEFF1C;
+  border: 1px solid #00a976;
   padding-left: 0;
   width: 30px;
   height: 30px;
@@ -8981,7 +8981,7 @@ ul.slick-dots li.slick-active button {
   transition: all 0.3s ease 0s;
 }
 .cart-menu-right .close-icon a:hover {
-  color: #AEFF1C;
+  color: #00a976;
 }
 .cart-menu-right .close-icon a:hover i {
   transform: rotate(180deg);
@@ -9021,7 +9021,7 @@ ul.slick-dots li.slick-active button {
   margin-bottom: 10px;
 }
 .cart-style-1 .product__cart-details .product-title a:hover {
-  color: #AEFF1C;
+  color: #00a976;
 }
 .cart-style-1 .product .cart-product-info {
   color: #000000;
@@ -9058,14 +9058,14 @@ ul.slick-dots li.slick-active button {
   margin-left: auto;
 }
 .cart-style-1 .cart-action .btn {
-  background: #AEFF1C;
+  background: #00a976;
   border-radius: 0;
   padding: 6px 20px;
   border: 0;
 }
 .cart-style-1 .cart-action .btn-outline-primary-2 {
   background: transparent;
-  border: 1px solid #AEFF1C;
+  border: 1px solid #00a976;
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
   -ms-transition: all 0.3s ease 0s;
@@ -9080,7 +9080,7 @@ ul.slick-dots li.slick-active button {
 }
 .cart-style-1 .cart-action .btn-outline-primary-2:hover {
   color: #ffffff;
-  background: #AEFF1C;
+  background: #00a976;
 }
 @media only screen and (max-width: 767.98px) {
   .cart-style-1 {
@@ -9111,7 +9111,7 @@ ul.slick-dots li.slick-active button {
   transition: all 0.3s ease 0s;
 }
 .social-links-two a:hover {
-  color: #AEFF1C;
+  color: #00a976;
   transform: scale(1.1);
 }
 
@@ -9177,8 +9177,8 @@ ul.slick-dots li.slick-active button {
   display: none;
 }
 .product-category-wrap .category-btn:hover {
-  border-color: #AEFF1C;
-  background: #AEFF1C;
+  border-color: #00a976;
+  background: #00a976;
 }
 .product-category-wrap:hover .category-btn {
   display: inline-block;
@@ -9229,13 +9229,13 @@ ul.slick-dots li.slick-active button {
   animation: rotation infinite linear 55s;
 }
 .theme-banner-one .main-title {
-  color: #104042;
+  color: #046848;
   font-size: 120px;
   line-height: 1;
   margin-bottom: 22px;
 }
 .theme-banner-one .hero-description {
-  color: #104042;
+  color: #046848;
   font-size: 28px;
   line-height: 45px;
   margin-bottom: 58px;
@@ -9244,18 +9244,18 @@ ul.slick-dots li.slick-active button {
   padding: 29px 50px 26px 50px;
 }
 .theme-banner-one .bstyle::before {
-  background: #104042;
+  background: #046848;
 }
 .theme-banner-one .bstyle:hover {
   color: #ffffff;
 }
 .theme-banner-one .bstyle-2 {
   overflow: visible;
-  color: #104042;
+  color: #046848;
   font-size: 20px;
   font-weight: 700;
   text-transform: uppercase;
-  border: 1px solid #104042;
+  border: 1px solid #046848;
   padding: 28px 75px 25px 35px;
   display: inline-flex;
   align-items: center;
@@ -9275,7 +9275,7 @@ ul.slick-dots li.slick-active button {
   font-size: 35px;
   line-height: 75px;
   border-radius: 50%;
-  background: #104042;
+  background: #046848;
   position: absolute;
   right: -37px;
   top: 0;
@@ -9284,9 +9284,9 @@ ul.slick-dots li.slick-active button {
   color: #ffffff;
 }
 .theme-banner-one .bstyle-2:hover {
-  color: #104042;
-  background: #AEFF1C;
-  border-color: #AEFF1C;
+  color: #046848;
+  background: #00a976;
+  border-color: #00a976;
 }
 .theme-banner-one .main-img {
   position: relative;
@@ -9302,7 +9302,7 @@ ul.slick-dots li.slick-active button {
   z-index: 2;
 }
 .theme-banner-one .rating-box h3 {
-  color: #104042;
+  color: #046848;
   font-weight: 500;
   font-size: 28px;
   font-family: "Satoshi-Medium";
@@ -9358,7 +9358,7 @@ ul.slick-dots li.slick-active button {
 
 .hero-rating a {
   font-size: 23px;
-  color: #104042;
+  color: #046848;
   display: inline-block;
   margin-right: 5px;
 }
@@ -9417,14 +9417,14 @@ ul.slick-dots li.slick-active button {
   animation: float-bob-y infinite linear 5s;
 }
 .theme-banner-two .bs-style {
-  color: #104042;
-  background: #AEFF1C;
+  color: #046848;
+  background: #00a976;
   border-radius: 40px;
   padding-top: 28px;
   padding-bottom: 26px;
 }
 .theme-banner-two .bs-style::before {
-  background: #104042;
+  background: #046848;
 }
 .theme-banner-two .bs-style:hover {
   color: #ffffff;
@@ -9461,9 +9461,9 @@ ul.slick-dots li.slick-active button {
   color: #ffffff;
 }
 .theme-banner-two .bstyle-2:hover {
-  color: #104042;
-  background: #AEFF1C;
-  border-color: #AEFF1C;
+  color: #046848;
+  background: #00a976;
+  border-color: #00a976;
 }
 @media only screen and (max-width: 1600px) {
   .theme-banner-two {
@@ -9551,7 +9551,7 @@ ul.slick-dots li.slick-active button {
   font-size: 18px;
 }
 .hero-subscribe-form input::-webkit-placeholder {
-  color: #104042;
+  color: #046848;
   font-size: 18px;
 }
 .hero-subscribe-form input::-o-placeholder {
@@ -9573,7 +9573,7 @@ ul.slick-dots li.slick-active button {
   letter-spacing: 0.5px;
   text-transform: uppercase;
   display: inline-block;
-  background: #AEFF1C;
+  background: #00a976;
   position: absolute;
   right: 0;
   top: 0;
@@ -9589,7 +9589,7 @@ ul.slick-dots li.slick-active button {
 }
 .hero-subscribe-form button:hover {
   color: #ffffff;
-  background: #104042;
+  background: #046848;
 }
 
 .theme-banner-three {
@@ -9617,16 +9617,16 @@ ul.slick-dots li.slick-active button {
 }
 .theme-banner-three .bstyle {
   color: #000;
-  background: #AEFF1C;
+  background: #00a976;
   border-radius: 40px;
   padding: 25px 49px 25px 49px;
 }
 .theme-banner-three .bstyle::before {
-  background: #104042;
+  background: #046848;
 }
 .theme-banner-three .bstyle:hover {
   color: #ffffff;
-  background: #104042;
+  background: #046848;
 }
 .theme-banner-three .ht-slider-wrapper {
   border-radius: 20px;
@@ -9745,9 +9745,9 @@ ul.slick-dots li.slick-active button {
   margin-bottom: 55px;
 }
 .theme-banner-four .bstyle {
-  color: #104042;
+  color: #046848;
   text-transform: uppercase;
-  background: #AEFF1C;
+  background: #00a976;
   border-radius: 40px;
   padding-top: 28px;
   padding-bottom: 25px;
@@ -9783,15 +9783,15 @@ ul.slick-dots li.slick-active button {
   font-size: 25px;
   line-height: 55px;
   border-radius: 50%;
-  background: #AEFF1C;
+  background: #00a976;
 }
 .theme-banner-four .bstyle-2 .popup-video i {
   color: #000;
 }
 .theme-banner-four .bstyle-2:hover {
-  color: #104042;
-  background: #AEFF1C;
-  border-color: #AEFF1C;
+  color: #046848;
+  background: #00a976;
+  border-color: #00a976;
 }
 .theme-banner-four .bstyle-2:hover .popup-video {
   background: #ffffff;
@@ -9883,14 +9883,14 @@ ul.slick-dots li.slick-active button {
   z-index: 1;
 }
 .theme-banner-five .bs-style {
-  color: #104042;
-  background: #AEFF1C;
+  color: #046848;
+  background: #00a976;
   border-radius: 40px;
   padding-top: 28px;
   padding-bottom: 26px;
 }
 .theme-banner-five .bs-style::before {
-  background: #104042;
+  background: #046848;
 }
 .theme-banner-five .bs-style:hover {
   color: #ffffff;
@@ -9921,18 +9921,18 @@ ul.slick-dots li.slick-active button {
   font-size: 25px;
   line-height: 55px;
   border-radius: 50%;
-  background: #AEFF1C;
+  background: #00a976;
 }
 .theme-banner-five .bstyle-2 .popup-video i {
   color: #ffffff;
 }
 .theme-banner-five .bstyle-2:hover {
-  color: #104042;
-  background: #AEFF1C;
-  border-color: #AEFF1C;
+  color: #046848;
+  background: #00a976;
+  border-color: #00a976;
 }
 .theme-banner-five .bstyle-2:hover .popup-video {
-  background: #104042;
+  background: #046848;
 }
 .theme-banner-five .hero-subscribe-form input {
   border-radius: 15px;
@@ -9947,7 +9947,7 @@ ul.slick-dots li.slick-active button {
 }
 .theme-banner-five .hero-subscribe-form button:hover {
   color: #ffffff;
-  background: #104042;
+  background: #046848;
 }
 @media only screen and (max-width: 1600px) {
   .theme-banner-five {
@@ -10095,7 +10095,7 @@ ul.slick-dots li.slick-active button {
 
 /*title-two*/
 .title-two .sub-title {
-  color: #104042;
+  color: #046848;
   font-size: 18px;
   font-weight: 500;
   font-family: "Radio Canada Big", serif;
@@ -10139,7 +10139,7 @@ ul.slick-dots li.slick-active button {
 
 /*title-two*/
 .title-three .sub-title {
-  color: #104042;
+  color: #046848;
   font-size: 18px;
   font-weight: 500;
   font-family: "Radio Canada Big", serif;
@@ -10147,7 +10147,7 @@ ul.slick-dots li.slick-active button {
   margin-bottom: 12px;
 }
 .title-three .title {
-  color: #104042;
+  color: #046848;
   font-size: 82px;
   line-height: 1.14;
   font-family: "Radio Canada Big", serif;
@@ -10155,7 +10155,7 @@ ul.slick-dots li.slick-active button {
   margin-bottom: 20px;
 }
 .title-three p {
-  color: #104042;
+  color: #046848;
   font-size: 22px;
   line-height: 38px;
 }
@@ -10253,7 +10253,7 @@ ul.slick-dots li.slick-active button {
   margin-right: 18px;
 }
 .img-wrapper-one .float-content-1 .number {
-  color: #104042;
+  color: #046848;
   font-size: 40px;
   font-weight: 500;
   font-family: "Radio Canada Big", serif;
@@ -10313,7 +10313,7 @@ ul.slick-dots li.slick-active button {
   margin-right: 14px;
 }
 .img-wrapper-two .float-content-1 .number {
-  color: #104042;
+  color: #046848;
   font-size: 52px;
   font-weight: 600;
   font-family: "Radio Canada Big", serif;
@@ -10373,7 +10373,7 @@ ul.slick-dots li.slick-active button {
   width: 33px;
   height: 33px;
   border-radius: 50%;
-  background: #AEFF1C;
+  background: #00a976;
   text-align: center;
   line-height: 33px;
 }
@@ -10495,7 +10495,7 @@ ul.slick-dots li.slick-active button {
   font-size: 55px;
   width: 140px;
   height: 140px;
-  background: #AEFF1C;
+  background: #00a976;
   display: inline-flex;
   justify-content: center;
   align-items: center;
@@ -10521,7 +10521,7 @@ ul.slick-dots li.slick-active button {
   margin-bottom: 35px;
 }
 .counter-wrap-1 .number {
-  color: #AEFF1C;
+  color: #00a976;
   font-size: 120px;
   font-weight: 600;
   font-family: "Radio Canada Big", serif;
@@ -10557,7 +10557,7 @@ ul.slick-dots li.slick-active button {
   bottom: 0;
 }
 .counter-wrap-2 .number {
-  color: #104042;
+  color: #046848;
   font-size: 130px;
   font-weight: 400;
   font-family: "Radio Canada Big", serif;
@@ -10592,16 +10592,16 @@ ul.slick-dots li.slick-active button {
   z-index: 1;
 }
 .counter-wrap-3 .number {
-  color: #104042;
+  color: #046848;
   font-size: 120px;
   font-weight: 500;
   font-family: "Radio Canada Big", serif;
   line-height: 1;
   display: inline-block;
-  border-bottom: 2px solid #104042;
+  border-bottom: 2px solid #046848;
 }
 .counter-wrap-3 .counter-title {
-  color: #104042;
+  color: #046848;
   font-size: 30px;
   line-height: 1;
   font-family: "Radio Canada Big", serif;
@@ -10675,7 +10675,7 @@ ul.slick-dots li.slick-active button {
   margin-bottom: 30px;
 }
 .counter-wrap-5 .number {
-  color: #104042;
+  color: #046848;
   font-size: 90px;
   font-weight: 600;
   font-family: "Radio Canada Big", serif;
@@ -10715,7 +10715,7 @@ ul.slick-dots li.slick-active button {
   border-radius: 30px;
 }
 .author-quote .icon {
-  background: #AEFF1C;
+  background: #00a976;
   width: 70px;
   height: 70px;
   border-radius: 50%;
@@ -10777,7 +10777,7 @@ ul.slick-dots li.slick-active button {
 }
 .service-tag-list a:hover {
   color: #ffffff;
-  background: #104042;
+  background: #046848;
 }
 
 .brand-wrap-1 {
@@ -10837,7 +10837,7 @@ ul.slick-dots li.slick-active button {
   font-weight: 600;
 }
 .icon-box .icon {
-  color: #AEFF1C;
+  color: #00a976;
   font-size: 20px;
   display: inline-block;
   width: 50px;
@@ -10854,7 +10854,7 @@ ul.slick-dots li.slick-active button {
 }
 .icon-box:hover .icon {
   color: #ffffff;
-  background: #AEFF1C;
+  background: #00a976;
 }
 
 .skill-wrapper-box {
@@ -10898,7 +10898,7 @@ ul.slick-dots li.slick-active button {
 }
 .skill-wrapper .progress .progress-bar {
   height: 7px;
-  background: #AEFF1C;
+  background: #00a976;
   width: 72%;
   border-radius: 0px;
   overflow: visible;
@@ -11069,7 +11069,7 @@ ul.slick-dots li.slick-active button {
   text-align: center;
 }
 .process-wrap-1 .icon {
-  background: #104042;
+  background: #046848;
   width: 90px;
   height: 90px;
   line-height: 90px;
@@ -11108,7 +11108,7 @@ ul.slick-dots li.slick-active button {
   top: 16%;
 }
 .process-wrap-2 .icon {
-  background: #AEFF1C;
+  background: #00a976;
   width: 90px;
   height: 90px;
   line-height: 90px;
@@ -11121,13 +11121,13 @@ ul.slick-dots li.slick-active button {
   filter: invert(1);
 }
 .process-wrap-2 .process-title {
-  color: #104042;
+  color: #046848;
   font-size: 40px;
   font-family: "Radio Canada Big", serif;
   font-weight: 600;
 }
 .process-wrap-2 .description {
-  color: #104042;
+  color: #046848;
 }
 @media only screen and (max-width: 1600px) {
   .process-wrap-2 .process-title {
@@ -11153,7 +11153,7 @@ ul.slick-dots li.slick-active button {
   width: 80px;
   height: 80px;
   border-radius: 50%;
-  background: #104042;
+  background: #046848;
   text-align: center;
   line-height: 72px;
   margin-bottom: 26px;
@@ -11178,7 +11178,7 @@ ul.slick-dots li.slick-active button {
   margin-bottom: 10px;
 }
 .service-wrap-1 .service-title a {
-  color: #104042;
+  color: #046848;
   -webkit-transition: all 0.4s ease 0s;
   -moz-transition: all 0.4s ease 0s;
   -ms-transition: all 0.4s ease 0s;
@@ -11186,14 +11186,14 @@ ul.slick-dots li.slick-active button {
   transition: all 0.4s ease 0s;
 }
 .service-wrap-1 .service-title a:hover {
-  color: #AEFF1C;
+  color: #00a976;
 }
 .service-wrap-1 .description {
-  color: #104042;
+  color: #046848;
   margin-bottom: 55px;
 }
 .service-wrap-1 .more-btn {
-  color: #104042;
+  color: #046848;
   font-size: 18px;
   font-weight: 600;
   font-family: "Radio Canada Big", serif;
@@ -11262,7 +11262,7 @@ ul.slick-dots li.slick-active button {
   border-radius: 50%;
   line-height: 76px;
   text-align: center;
-  background: #104042;
+  background: #046848;
   margin-bottom: 23px;
   position: relative;
   z-index: 1;
@@ -11297,7 +11297,7 @@ ul.slick-dots li.slick-active button {
   margin-bottom: 10px;
 }
 .service-wrap-2 .service-title a {
-  color: #104042;
+  color: #046848;
   -webkit-transition: all 0.4s ease 0s;
   -moz-transition: all 0.4s ease 0s;
   -ms-transition: all 0.4s ease 0s;
@@ -11313,7 +11313,7 @@ ul.slick-dots li.slick-active button {
   transition: all 0.4s ease 0s;
 }
 .service-wrap-2 .more-btn {
-  color: #104042;
+  color: #046848;
   font-size: 18px;
   font-weight: 600;
   font-family: "Radio Canada Big", serif;
@@ -11323,8 +11323,8 @@ ul.slick-dots li.slick-active button {
   margin-left: 6px;
 }
 .service-wrap-2:hover {
-  background: #AEFF1C;
-  border-color: #AEFF1C;
+  background: #00a976;
+  border-color: #00a976;
 }
 .service-wrap-2:hover .icon {
   background: #ffffff;
@@ -11478,8 +11478,8 @@ ul.slick-dots li.slick-active button {
   display: flex;
   align-items: center;
   justify-content: center;
-  border: 2px solid #104042;
-  background: #104042;
+  border: 2px solid #046848;
+  background: #046848;
   margin-right: 60px;
   -webkit-transition: all 0.4s ease 0s;
   -moz-transition: all 0.4s ease 0s;
@@ -11524,7 +11524,7 @@ ul.slick-dots li.slick-active button {
   transition: all 0.4s ease 0s;
 }
 .service-wrap-4 .service-title a:hover {
-  color: #104042;
+  color: #046848;
 }
 .service-wrap-4 .description {
   color: #000000;
@@ -11557,7 +11557,7 @@ ul.slick-dots li.slick-active button {
   border-color: #000;
 }
 .service-wrap-4:hover .icon {
-  background: #AEFF1C;
+  background: #00a976;
   border-color: #000;
 }
 .service-wrap-4:hover .icon .front-icon {
@@ -11668,7 +11668,7 @@ ul.slick-dots li.slick-active button {
   border-color: #E2F5F5;
 }
 .service-wrap-5:hover .icon {
-  background: #104042;
+  background: #046848;
 }
 .service-wrap-5:hover .icon .front-icon {
   display: none;
@@ -11707,7 +11707,7 @@ ul.slick-dots li.slick-active button {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: #104042;
+  background: #046848;
   margin-right: 60px;
   -webkit-transition: all 0.4s ease 0s;
   -moz-transition: all 0.4s ease 0s;
@@ -11752,7 +11752,7 @@ ul.slick-dots li.slick-active button {
   transition: all 0.4s ease 0s;
 }
 .service-wrap-6 .service-title a:hover {
-  color: #104042;
+  color: #046848;
 }
 .service-wrap-6 .description {
   color: #000000;
@@ -11780,7 +11780,7 @@ ul.slick-dots li.slick-active button {
   border-bottom-color: transparent;
 }
 .service-wrap-6:hover .icon {
-  background: #AEFF1C;
+  background: #00a976;
   border-color: #000;
 }
 .service-wrap-6:hover .icon .front-icon {
@@ -11873,7 +11873,7 @@ ul.slick-dots li.slick-active button {
   width: 100px;
   height: 100px;
   border-radius: 50%;
-  background: #AEFF1C;
+  background: #00a976;
   display: inline-flex;
   justify-content: center;
   align-items: center;
@@ -11948,7 +11948,7 @@ ul.slick-dots li.slick-active button {
   width: 90px;
   height: 90px;
   border-radius: 20px;
-  background: #104042;
+  background: #046848;
   display: inline-flex;
   justify-content: center;
   align-items: center;
@@ -11967,7 +11967,7 @@ ul.slick-dots li.slick-active button {
   border-radius: 0;
 }
 .portfolio-wrap-2 .icon-link:hover {
-  background: #AEFF1C;
+  background: #00a976;
 }
 .portfolio-wrap-2 .icon-link:hover img {
   filter: invert(1);
@@ -12029,7 +12029,7 @@ ul.slick-dots li.slick-active button {
   width: 90px;
   height: 90px;
   border-radius: 20px;
-  background: #104042;
+  background: #046848;
   display: inline-flex;
   justify-content: center;
   align-items: center;
@@ -12048,7 +12048,7 @@ ul.slick-dots li.slick-active button {
   border-radius: 0;
 }
 .portfolio-wrap-3 .icon-link:hover {
-  background: #AEFF1C;
+  background: #00a976;
 }
 .portfolio-wrap-3 .icon-link:hover img {
   filter: invert(1);
@@ -12106,7 +12106,7 @@ ul.slick-dots li.slick-active button {
   transition: all 0.6s ease 0s;
 }
 .portfolio-menu .gf_btn:hover, .portfolio-menu .gf_btn.active {
-  background: #AEFF1C;
+  background: #00a976;
   color: #ffffff;
 }
 @media only screen and (max-width: 991.98px) {
@@ -12121,7 +12121,7 @@ ul.slick-dots li.slick-active button {
   padding-bottom: 10px;
   padding-left: 45px;
   padding-right: 45px;
-  background: #104042;
+  background: #046848;
   border-radius: 20px;
   margin-top: -350px;
 }
@@ -12143,7 +12143,7 @@ ul.slick-dots li.slick-active button {
   height: 60px;
   text-align: center;
   line-height: 60px;
-  background: #AEFF1C;
+  background: #00a976;
   border-radius: 50%;
   font-size: 26px;
   margin-right: 20px;
@@ -12210,8 +12210,8 @@ ul.slick-dots li.slick-active button {
   transition: all 0.4s ease 0s;
 }
 .portfolio-navigation .icon-link:hover {
-  border-color: #AEFF1C;
-  background: #AEFF1C;
+  border-color: #00a976;
+  background: #00a976;
 }
 .portfolio-navigation .icon-link:hover img {
   filter: invert(1);
@@ -12265,7 +12265,7 @@ ul.slick-dots li.slick-active button {
 }
 
 .contact-form-wrapper-3 {
-  background: #104042;
+  background: #046848;
   border-radius: 30px;
   padding: 57px 60px 70px 60px;
 }
@@ -12339,7 +12339,7 @@ ul.slick-dots li.slick-active button {
   letter-spacing: 0.05px;
   border-radius: 50px;
   border: 0;
-  background: #AEFF1C;
+  background: #00a976;
   border: 2px solid #000;
   width: 100%;
   -webkit-transition: all 0.4s ease 0s;
@@ -12350,7 +12350,7 @@ ul.slick-dots li.slick-active button {
 }
 .contact-form .submit-btn:hover {
   color: #ffffff;
-  background: #104042;
+  background: #046848;
 }
 @media only screen and (max-width: 1200px) {
   .contact-form .input-wrapper {
@@ -12375,7 +12375,7 @@ ul.slick-dots li.slick-active button {
 .contact-form.form-2 .submit-btn {
   color: #ffffff;
   width: auto;
-  background: #104042;
+  background: #046848;
 }
 .contact-form.form-2 .submit-btn:hover {
   background: #000;
@@ -12411,8 +12411,8 @@ ul.slick-dots li.slick-active button {
 .contact-form.form-3 .submit-btn {
   color: #000000;
   width: 100%;
-  background: #AEFF1C;
-  border-color: #AEFF1C;
+  background: #00a976;
+  border-color: #00a976;
 }
 
 .subscribe-form {
@@ -12424,15 +12424,15 @@ ul.slick-dots li.slick-active button {
   width: 100%;
   height: 70px;
   border: 0;
-  color: #104042;
+  color: #046848;
   font-size: 18px;
   font-family: "Satoshi-Regular";
-  border: 1px solid #104042;
+  border: 1px solid #046848;
   padding-left: 30px;
   border-radius: 10px;
 }
 .subscribe-form input::placeholder, .subscribe-form input::-moz-placeholder, .subscribe-form input::-webkit-placeholder, .subscribe-form input::-o-placeholder, .subscribe-form input::-ms-placeholder {
-  color: #104042;
+  color: #046848;
   font-size: 18px;
 }
 .subscribe-form button {
@@ -12444,7 +12444,7 @@ ul.slick-dots li.slick-active button {
   line-height: 1;
   text-transform: capitalize;
   display: inline-block;
-  background: #104042;
+  background: #046848;
   position: absolute;
   right: 8px;
   top: 8px;
@@ -12460,7 +12460,7 @@ ul.slick-dots li.slick-active button {
 }
 .subscribe-form button:hover {
   color: #000000;
-  background: #AEFF1C;
+  background: #00a976;
 }
 .subscribe-form.sub-form-2 {
   display: inline-block;
@@ -12477,7 +12477,7 @@ ul.slick-dots li.slick-active button {
 .subscribe-form.sub-form-2 button {
   color: #000000;
   font-size: 18px;
-  background: #AEFF1C;
+  background: #00a976;
   min-height: 55px;
   line-height: 55px;
   padding-left: 30px;
@@ -12492,7 +12492,7 @@ ul.slick-dots li.slick-active button {
 }
 .subscribe-form.sub-form-2 button:hover {
   color: #ffffff;
-  background: #104042;
+  background: #046848;
 }
 @media only screen and (max-width: 991.98px) {
   .subscribe-form.sub-form-2 input {
@@ -12516,7 +12516,7 @@ ul.slick-dots li.slick-active button {
 }
 .subscribe-form.sub-form-3 button {
   color: #000000;
-  background: #AEFF1C;
+  background: #00a976;
   position: relative;
   z-index: 1;
   min-width: 155px;
@@ -12553,7 +12553,7 @@ ul.slick-dots li.slick-active button {
 }
 .subscribe-form.sub-form-4 button {
   color: #ffffff;
-  background: #AEFF1C;
+  background: #00a976;
   min-height: 65px;
   line-height: 65px;
   padding-left: 30px;
@@ -12671,21 +12671,21 @@ ul.slick-dots li.slick-active button {
   opacity: 1;
 }
 
-.signup-form-section .contact-wrapper {
+.Login-form-section .contact-wrapper {
   background: rgba(244, 244, 244, 0.5);
   padding: 50px;
   border-radius: 30px;
 }
 @media only screen and (max-width: 767.98px) {
-  .signup-form-section .contact-wrapper {
+  .Login-form-section .contact-wrapper {
     padding-left: 10px;
     padding-right: 10px;
   }
 }
-.signup-form-section .contact-form .input-wrapper span {
+.Login-form-section .contact-form .input-wrapper span {
   left: 21px;
 }
-.signup-form-section button.signup-btn {
+.Login-form-section button.Login-btn {
   border: 0;
   width: 100%;
   height: 45px;
@@ -12705,7 +12705,7 @@ ul.slick-dots li.slick-active button {
   color: #000000;
   width: 70px;
   height: 70px;
-  background: #AEFF1C;
+  background: #00a976;
   border-radius: 50%;
   font-size: 40px;
   text-align: center;
@@ -12890,7 +12890,7 @@ ul.slick-dots li.slick-active button {
   border-radius: 50%;
   text-align: center;
   line-height: 65px;
-  background: #104042;
+  background: #046848;
   display: inline-block;
 }
 .feedback-wrap-1 .quote-icon img {
@@ -12900,13 +12900,13 @@ ul.slick-dots li.slick-active button {
   font-size: 30px;
   font-family: "Satoshi-Regular";
   font-weight: 400;
-  color: #104042;
+  color: #046848;
   line-height: 1.6;
   margin-top: 30px;
   margin-bottom: 60px;
 }
 .feedback-wrap-1 .name {
-  color: #104042;
+  color: #046848;
   font-size: 24px;
   font-weight: 500;
   font-family: "Satoshi-Medium";
@@ -12921,7 +12921,7 @@ ul.slick-dots li.slick-active button {
   top: 48%;
   width: 21px;
   height: 2px;
-  background: #104042;
+  background: #046848;
 }
 .feedback-wrap-1 .designation {
   color: rgba(0, 0, 0, 0.6);
@@ -12970,19 +12970,19 @@ ul.slick-dots li.slick-active button {
   display: inline-block;
 }
 .feedback-wrap-2 .name {
-  color: #104042;
+  color: #046848;
   font-size: 20px;
   font-weight: 500;
   font-family: "Satoshi-Medium";
   margin-bottom: 0;
 }
 .feedback-wrap-2 .designation {
-  color: #104042;
+  color: #046848;
   font-size: 16px;
   margin-bottom: 0;
 }
 .feedback-wrap-2 .feedback-text {
-  color: #104042;
+  color: #046848;
   font-size: 40px;
   font-weight: 600;
   font-family: "Radio Canada Big", serif;
@@ -13005,11 +13005,11 @@ ul.slick-dots li.slick-active button {
   animation: jumpAni 7s infinite linear;
 }
 .feedback-wrap-2 .rating p {
-  color: #104042;
+  color: #046848;
   margin-bottom: 0;
 }
 .feedback-wrap-2 .rating a {
-  color: #104042;
+  color: #046848;
   font-size: 24px;
   margin: 0 4px;
 }
@@ -13140,7 +13140,7 @@ ul.slick-dots li.slick-active button {
   margin-bottom: 40px;
 }
 .feedback-wrap-4 .quote {
-  background: #AEFF1C;
+  background: #00a976;
   width: 70px;
   height: 70px;
   border-radius: 50%;
@@ -13332,7 +13332,7 @@ ul.slick-dots li.slick-active button {
   width: 60px;
   height: 60px;
   border-radius: 50%;
-  background: #AEFF1C;
+  background: #00a976;
   position: absolute;
   right: 0;
   bottom: 0;
@@ -13407,7 +13407,7 @@ ul.slick-dots li.slick-active button {
 }
 .team-wrap-1 .content {
   text-align: center;
-  background: #AEFF1C;
+  background: #00a976;
   padding: 25px 43px 14px 40px;
   position: absolute;
   width: 83%;
@@ -13513,8 +13513,8 @@ ul.slick-dots li.slick-active button {
   line-height: 65px;
 }
 .team-wrap-2 .team-social a:hover {
-  color: #AEFF1C;
-  background: #104042;
+  color: #00a976;
+  background: #046848;
 }
 .team-wrap-2 .content {
   padding-top: 19px;
@@ -13547,7 +13547,7 @@ ul.slick-dots li.slick-active button {
   bottom: 25px;
 }
 .team-wrap-2:hover .name a {
-  color: #104042;
+  color: #046848;
 }
 @media only screen and (max-width: 1200px) {
   .team-wrap-2 .name a {
@@ -13607,7 +13607,7 @@ ul.slick-dots li.slick-active button {
   line-height: 65px;
 }
 .team-wrap-3 .team-social a:hover {
-  background: #104042;
+  background: #046848;
 }
 .team-wrap-3 .content {
   padding-top: 30px;
@@ -13640,7 +13640,7 @@ ul.slick-dots li.slick-active button {
   bottom: 25px;
 }
 .team-wrap-3:hover .name a {
-  color: #104042;
+  color: #046848;
 }
 @media only screen and (max-width: 1200px) {
   .team-wrap-3 {
@@ -13679,7 +13679,7 @@ ul.slick-dots li.slick-active button {
 }
 .team-social a:hover {
   color: #ffffff;
-  background: #AEFF1C;
+  background: #00a976;
 }
 .team-social a:hover i {
   transform: scale(1.2);
@@ -13704,8 +13704,8 @@ ul.slick-dots li.slick-active button {
 }
 .team-social-2 a:hover {
   color: #000000;
-  border-color: #AEFF1C;
-  background: #AEFF1C;
+  border-color: #00a976;
+  background: #00a976;
 }
 
 .biography-content-wrap .team-biography img {
@@ -13759,8 +13759,8 @@ ul.slick-dots li.slick-active button {
 }
 .biography-content-wrap .contact-btn:hover {
   color: #ffffff;
-  background: #AEFF1C;
-  border-color: #AEFF1C;
+  background: #00a976;
+  border-color: #00a976;
 }
 @media only screen and (max-width: 1200px) {
   .biography-content-wrap .name {
@@ -13820,7 +13820,7 @@ ul.slick-dots li.slick-active button {
   border-radius: 30px;
 }
 .blog-one .blog-date {
-  color: #104042;
+  color: #046848;
   font-size: 16px;
   font-weight: 500;
   font-family: "Satoshi-Medium";
@@ -13850,7 +13850,7 @@ ul.slick-dots li.slick-active button {
   transition: all 0.4s ease 0s;
 }
 .blog-one .blog-meta a:hover {
-  color: #104042;
+  color: #046848;
 }
 .blog-one .blog-meta a:last-child {
   margin-right: 0;
@@ -13865,7 +13865,7 @@ ul.slick-dots li.slick-active button {
   margin-top: 5px;
 }
 .blog-one .blog-title a {
-  color: #104042;
+  color: #046848;
   -webkit-transition: all 0.4s ease 0s;
   -moz-transition: all 0.4s ease 0s;
   -ms-transition: all 0.4s ease 0s;
@@ -13873,7 +13873,7 @@ ul.slick-dots li.slick-active button {
   transition: all 0.4s ease 0s;
 }
 .blog-one .blog-title a:hover {
-  color: #104042;
+  color: #046848;
 }
 .blog-one .blog-content {
   padding-top: 30px;
@@ -13904,7 +13904,7 @@ ul.slick-dots li.slick-active button {
   transition: all 0.4s ease 0s;
 }
 .blog-one:hover .blog-btn {
-  background: #AEFF1C;
+  background: #00a976;
   transform: rotate(-45deg);
 }
 @media only screen and (max-width: 1200px) {
@@ -14025,7 +14025,7 @@ ul.slick-dots li.slick-active button {
   transition: all 0.4s ease 0s;
 }
 .blog-two:hover .blog-btn {
-  background: #AEFF1C;
+  background: #00a976;
 }
 @media only screen and (max-width: 1600px) {
   .blog-two .blog-thumb .blog-tag {
@@ -14088,7 +14088,7 @@ ul.slick-dots li.slick-active button {
   transition: all 0.4s ease 0s;
 }
 .blog-three .blog-meta a:hover {
-  color: #AEFF1C;
+  color: #00a976;
 }
 .blog-three .blog-title {
   font-size: 36px;
@@ -14147,7 +14147,7 @@ ul.slick-dots li.slick-active button {
 }
 .blog-three:hover .blog-btn {
   color: #000;
-  background: #AEFF1C;
+  background: #00a976;
 }
 @media only screen and (max-width: 1200px) {
   .blog-three {
@@ -14310,7 +14310,7 @@ ul.slick-dots li.slick-active button {
   transition: all 0.4s ease 0s;
 }
 .blog-five .blog-title a:hover {
-  color: #104042;
+  color: #046848;
 }
 .blog-five .blog-content {
   padding-top: 30px;
@@ -14320,7 +14320,7 @@ ul.slick-dots li.slick-active button {
   font-size: 18px;
   font-weight: 700;
   font-family: "Radio Canada Big", serif;
-  background: #AEFF1C;
+  background: #00a976;
   width: 80px;
   height: 80px;
   display: inline-flex;
@@ -14343,7 +14343,7 @@ ul.slick-dots li.slick-active button {
   width: auto;
 }
 .blog-five .blog-btn:hover {
-  color: #104042;
+  color: #046848;
 }
 .blog-five:hover .blog-btn {
   opacity: 1;
@@ -14426,7 +14426,7 @@ ul.slick-dots li.slick-active button {
   transition: all 0.4s ease 0s;
 }
 .blog-six .blog-meta a:hover {
-  color: #AEFF1C;
+  color: #00a976;
 }
 .blog-six .blog-meta a:last-child {
   margin-right: 0;
@@ -14544,7 +14544,7 @@ ul.slick-dots li.slick-active button {
   transition: all 0.4s ease 0s;
 }
 .blog-seven .blog-meta a:hover {
-  color: #104042;
+  color: #046848;
 }
 .blog-seven .blog-meta a:last-child {
   margin-right: 0;
@@ -14573,7 +14573,7 @@ ul.slick-dots li.slick-active button {
   transition: all 0.4s ease 0s;
 }
 .blog-seven .blog-title a:hover {
-  color: #104042;
+  color: #046848;
 }
 .blog-seven .blog-btn {
   color: #000000;
@@ -14589,7 +14589,7 @@ ul.slick-dots li.slick-active button {
   align-items: center;
   display: inline-flex;
   border-radius: 50%;
-  background: #AEFF1C;
+  background: #00a976;
   position: absolute;
   right: 20px;
   bottom: 20px;
@@ -14642,7 +14642,7 @@ ul.slick-dots li.slick-active button {
   left: 50%;
   top: 50%;
   transform: translate(-50%, -50%);
-  background: #AEFF1C;
+  background: #00a976;
   position: absolute;
 }
 .classic-style .popup-video img {
@@ -14697,7 +14697,7 @@ ul.slick-dots li.slick-active button {
   transition: all 0.4s ease 0s;
 }
 .classic-style .blog-meta a:hover {
-  color: #104042;
+  color: #046848;
 }
 .classic-style .blog-meta a:last-child {
   margin-right: 0;
@@ -14727,7 +14727,7 @@ ul.slick-dots li.slick-active button {
   transition: all 0.4s ease 0s;
 }
 .classic-style .blog-title a:hover {
-  color: #104042;
+  color: #046848;
 }
 .classic-style .blog-content {
   padding-top: 30px;
@@ -14759,7 +14759,7 @@ ul.slick-dots li.slick-active button {
   transition: all 0.4s ease 0s;
 }
 .classic-style:hover .blog-btn {
-  background: #AEFF1C;
+  background: #00a976;
   transform: rotate(-45deg);
 }
 @media only screen and (max-width: 1200px) {
@@ -14803,7 +14803,7 @@ ul.slick-dots li.slick-active button {
 }
 
 .blockquote {
-  background: #AEFF1C;
+  background: #00a976;
   padding: 45px 10px 60px 128px;
   border-radius: 20px;
   position: relative;
@@ -15009,7 +15009,7 @@ ul.slick-dots li.slick-active button {
   }
 }
 .ht-plan.active, .ht-plan:hover {
-  background: #104042;
+  background: #046848;
 }
 .ht-plan.active .back-shape,
 .ht-plan.active .back-icon, .ht-plan:hover .back-shape,
@@ -15036,17 +15036,17 @@ ul.slick-dots li.slick-active button {
   color: #ffffff;
 }
 .ht-plan.active .feature-list li.price-available .check-mark, .ht-plan:hover .feature-list li.price-available .check-mark {
-  color: #AEFF1C;
+  color: #00a976;
 }
 .ht-plan.active .feature-list li.unavailable .check-mark, .ht-plan:hover .feature-list li.unavailable .check-mark {
-  color: #AEFF1C;
+  color: #00a976;
 }
 .ht-plan.active .feature-list li.unavailable, .ht-plan:hover .feature-list li.unavailable {
   color: rgba(255, 255, 255, 0.4);
 }
 .ht-plan.active .price-btn, .ht-plan:hover .price-btn {
-  border-color: #AEFF1C;
-  background: #AEFF1C;
+  border-color: #00a976;
+  background: #00a976;
 }
 
 .ht-plan-tag {
@@ -15199,13 +15199,13 @@ ul.slick-dots li.slick-active button {
   font-size: 20px;
   font-weight: 500;
   font-family: "Satoshi-Medium";
-  color: #104042;
+  color: #046848;
 }
 .copyright-text a {
-  color: #104042;
+  color: #046848;
 }
 .copyright-text a:hover {
-  color: #AEFF1C;
+  color: #00a976;
 }
 @media only screen and (max-width: 991.98px) {
   .copyright-text {
@@ -15218,7 +15218,7 @@ ul.slick-dots li.slick-active button {
   z-index: 1;
 }
 .footer-widget .widget-title {
-  color: #104042;
+  color: #046848;
   font-size: 28px;
   font-weight: 600;
   font-family: "Radio Canada Big", serif;
@@ -15231,7 +15231,7 @@ ul.slick-dots li.slick-active button {
   list-style: none;
 }
 .footer-widget ul li a {
-  color: #104042;
+  color: #046848;
   font-size: 20px;
   line-height: 36px;
   font-weight: 400;
@@ -15245,7 +15245,7 @@ ul.slick-dots li.slick-active button {
   transition: all 0.4s ease 0s;
 }
 .footer-widget ul li a:hover {
-  color: #AEFF1C;
+  color: #00a976;
 }
 @media only screen and (max-width: 991.98px) {
   .footer-widget .widget-title {
@@ -15259,7 +15259,7 @@ ul.slick-dots li.slick-active button {
 .ht-widget-contact .info-box-icon {
   font-size: 24px;
   margin-right: 15px;
-  color: #AEFF1C;
+  color: #00a976;
   line-height: 1;
   margin-top: 10px;
 }
@@ -15267,7 +15267,7 @@ ul.slick-dots li.slick-active button {
   font-size: 16px;
 }
 .ht-widget-contact .ht-content:hover {
-  color: #AEFF1C;
+  color: #00a976;
 }
 .ht-widget-contact .info-box-label {
   display: block;
@@ -15278,7 +15278,7 @@ ul.slick-dots li.slick-active button {
 }
 
 .copyright-wrap {
-  border-top: 1px solid #104042;
+  border-top: 1px solid #046848;
 }
 
 .footer-menu {
@@ -15293,7 +15293,7 @@ ul.slick-dots li.slick-active button {
   margin-right: 0;
 }
 .footer-menu li a {
-  color: #104042;
+  color: #046848;
   font-size: 20px;
   font-weight: 500;
   font-family: "Satoshi-Medium";
@@ -15306,7 +15306,7 @@ ul.slick-dots li.slick-active button {
   transition: all 0.4s ease 0s;
 }
 .footer-menu li a:hover {
-  color: #AEFF1C;
+  color: #00a976;
 }
 @media only screen and (max-width: 1200px) {
   .footer-menu li a {
@@ -15335,24 +15335,24 @@ ul.slick-dots li.slick-active button {
   z-index: 2;
 }
 .footer-one .widget-title {
-  color: #104042;
+  color: #046848;
 }
 .footer-one p {
-  color: #104042;
+  color: #046848;
   font-size: 20px;
   line-height: 36px;
 }
 .footer-one .social-links a {
-  color: #104042;
-  border-color: #104042;
+  color: #046848;
+  border-color: #046848;
 }
 .footer-one .social-links a:hover {
   color: #000;
-  background: #AEFF1C;
-  border-color: #AEFF1C;
+  background: #00a976;
+  border-color: #00a976;
 }
 .footer-one .copyright-wrap {
-  border-top: 1px solid #104042;
+  border-top: 1px solid #046848;
 }
 @media only screen and (max-width: 1200px) {
   .footer-one .shape-1 {
@@ -15382,7 +15382,7 @@ ul.slick-dots li.slick-active button {
   color: #ffffff;
 }
 .footer-two .footer-widget ul li a:hover {
-  color: #AEFF1C;
+  color: #00a976;
 }
 .footer-two .social-links a {
   color: #ffffff;
@@ -15390,14 +15390,14 @@ ul.slick-dots li.slick-active button {
 }
 .footer-two .social-links a:hover {
   color: #000;
-  background: #AEFF1C;
-  border-color: #AEFF1C;
+  background: #00a976;
+  border-color: #00a976;
 }
 .footer-two .footer-menu li a {
   color: #ffffff;
 }
 .footer-two .footer-menu li a:hover {
-  color: #AEFF1C;
+  color: #00a976;
 }
 .footer-two .copyright-text {
   color: #ffffff;
@@ -15406,7 +15406,7 @@ ul.slick-dots li.slick-active button {
   color: #ffffff;
 }
 .footer-two .copyright-text a:hover {
-  color: #104042;
+  color: #046848;
 }
 
 .footer-three .footer-border {
@@ -15431,24 +15431,24 @@ ul.slick-dots li.slick-active button {
   font-family: "Radio Canada Big", serif;
 }
 .footer-three .footer-widget ul li a:hover {
-  color: #AEFF1C;
+  color: #00a976;
 }
 .footer-three .footer-menu li a {
   color: #000000;
 }
 .footer-three .footer-menu li a:hover {
-  color: #104042;
+  color: #046848;
 }
 .footer-three .copyright-text a {
   color: #000000;
 }
 .footer-three .copyright-text a:hover {
-  color: #104042;
+  color: #046848;
 }
 .footer-three .social-links a:hover {
   color: #000;
-  background: #AEFF1C;
-  border-color: #AEFF1C;
+  background: #00a976;
+  border-color: #00a976;
 }
 .footer-three .copyright-wrap {
   border-top: 1px solid rgba(0, 0, 0, 0.3);
@@ -15481,8 +15481,8 @@ ul.slick-dots li.slick-active button {
 }
 .footer-four .social-links a:hover {
   color: #000000;
-  background: #AEFF1C;
-  border-color: #AEFF1C;
+  background: #00a976;
+  border-color: #00a976;
 }
 .footer-four .copyright-wrap {
   border-top: 1px solid #000;
@@ -15512,7 +15512,7 @@ ul.slick-dots li.slick-active button {
   font-family: "Radio Canada Big", serif;
 }
 .footer-five .footer-widget ul li a:hover {
-  color: #AEFF1C;
+  color: #00a976;
 }
 @media only screen and (max-width: 1200px) {
   .footer-five .footer-widget ul li a {
@@ -15523,13 +15523,13 @@ ul.slick-dots li.slick-active button {
   color: #ffffff;
 }
 .footer-five .footer-menu li a:hover {
-  color: #AEFF1C;
+  color: #00a976;
 }
 .footer-five .copyright-text a {
   color: #ffffff;
 }
 .footer-five .copyright-text a:hover {
-  color: #AEFF1C;
+  color: #00a976;
 }
 .footer-five .social-links a {
   color: #ffffff;
@@ -15537,8 +15537,8 @@ ul.slick-dots li.slick-active button {
 }
 .footer-five .social-links a:hover {
   color: #000;
-  background: #AEFF1C;
-  border-color: #AEFF1C;
+  background: #00a976;
+  border-color: #00a976;
 }
 .footer-five .copyright-wrap {
   border-top: 1px solid rgba(255, 255, 255, 0.2);
