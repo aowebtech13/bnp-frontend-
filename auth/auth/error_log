@@ -1,0 +1,23 @@
+[26-Jun-2025 13:36:02 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.3.0". You are running 8.0.30. in /home/mjgjbwti/public_html/auth/core/vendor/composer/platform_check.php on line 24
+[26-Jun-2025 13:36:20 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.3.0". You are running 8.0.30. in /home/mjgjbwti/public_html/auth/core/vendor/composer/platform_check.php on line 24
+[26-Jun-2025 13:36:28 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.3.0". You are running 8.0.30. in /home/mjgjbwti/public_html/auth/core/vendor/composer/platform_check.php on line 24
+[26-Jun-2025 13:36:31 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.3.0". You are running 8.0.30. in /home/mjgjbwti/public_html/auth/core/vendor/composer/platform_check.php on line 24
+[26-Jun-2025 13:36:58 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.3.0". You are running 8.0.30. in /home/mjgjbwti/public_html/auth/core/vendor/composer/platform_check.php on line 24
+[25-Jul-2025 13:10:03 UTC] PHP Warning:  require(/home/mjgjbwti/public_html/auth/core/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): Failed to open stream: Permission denied in /home/mjgjbwti/public_html/auth/core/vendor/composer/autoload_real.php on line 55
+[25-Jul-2025 13:10:03 UTC] PHP Warning:  require(/home/mjgjbwti/public_html/auth/core/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): Failed to open stream: Permission denied in /home/mjgjbwti/public_html/auth/core/vendor/composer/autoload_real.php on line 55
+[25-Jul-2025 13:10:03 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/mjgjbwti/public_html/auth/core/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/mjgjbwti/public_html/auth/core/vendor/composer/autoload_real.php:55
+Stack trace:
+#0 /home/mjgjbwti/public_html/auth/core/vendor/composer/autoload_real.php(38): composerRequire1cfacc0197502531d1753354c01655cc('0e6d7bf4a5811bf...', '/home/mjgjbwti/...')
+#1 /home/mjgjbwti/public_html/auth/core/vendor/autoload.php(12): ComposerAutoloaderInit1cfacc0197502531d1753354c01655cc::getLoader()
+#2 /home/mjgjbwti/public_html/auth/index.php(13): require('/home/mjgjbwti/...')
+#3 {main}
+  thrown in /home/mjgjbwti/public_html/auth/core/vendor/composer/autoload_real.php on line 55
+[25-Jul-2025 13:15:03 UTC] PHP Warning:  require(/home/mjgjbwti/public_html/auth/core/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): Failed to open stream: Permission denied in /home/mjgjbwti/public_html/auth/core/vendor/composer/autoload_real.php on line 55
+[25-Jul-2025 13:15:03 UTC] PHP Warning:  require(/home/mjgjbwti/public_html/auth/core/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): Failed to open stream: Permission denied in /home/mjgjbwti/public_html/auth/core/vendor/composer/autoload_real.php on line 55
+[25-Jul-2025 13:15:03 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/mjgjbwti/public_html/auth/core/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/mjgjbwti/public_html/auth/core/vendor/composer/autoload_real.php:55
+Stack trace:
+#0 /home/mjgjbwti/public_html/auth/core/vendor/composer/autoload_real.php(38): composerRequire1cfacc0197502531d1753354c01655cc('0e6d7bf4a5811bf...', '/home/mjgjbwti/...')
+#1 /home/mjgjbwti/public_html/auth/core/vendor/autoload.php(12): ComposerAutoloaderInit1cfacc0197502531d1753354c01655cc::getLoader()
+#2 /home/mjgjbwti/public_html/auth/index.php(13): require('/home/mjgjbwti/...')
+#3 {main}
+  thrown in /home/mjgjbwti/public_html/auth/core/vendor/composer/autoload_real.php on line 55
